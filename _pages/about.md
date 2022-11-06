@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#Welcome
+# Welcome
 Welcome to my site. This is a site that was forked from academicpages. This is mainly created to learn more about github and using githubpages.
 
 A data-driven personal website
